@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # OpenWeatherMap API Key (Replace with your own key)
-API_KEY = "5240efa02cc404a048b1413c92d1786c"
+API_KEY = "YOUR_API_KEY"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # Adding a background image
